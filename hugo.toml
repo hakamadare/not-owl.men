@@ -1,0 +1,4 @@
+baseURL = 'https://not-owl.men/'
+languageCode = 'en-us'
+title = 'Not Owl Men!'
+theme = 'beautifulhugo'
