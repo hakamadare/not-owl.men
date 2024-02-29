@@ -7,3 +7,5 @@ draft = false
 Lorem ipsum dolor sit amet
 
 Here is some additional content to add
+
+And now i've added another line
